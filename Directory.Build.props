@@ -1,0 +1,13 @@
+<Project>
+    <PropertyGroup>
+        <Authors>Jerome Haltom</Authors>
+        <Company>Alethic Solutions</Company>
+        <RepositoryUrl>https://github.com/wasabii/Cogito.Reflection.Metadata</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageLicenseUrl>https://raw.github.com/wasabii/Cogito.Reflection.Metadata/master/LICENSE</PackageLicenseUrl>
+        <PackageProjectUrl>https://github.com/wasabii/Cogito.Reflection.Metadata</PackageProjectUrl>
+        <PackageIconUrl>https://cloverluxussc.blob.core.windows.net/public/cogito-nuget-icon.png</PackageIconUrl>
+        <PackageTags>pe exports portable executable</PackageTags>
+        <LangVersion>8.0</LangVersion>
+    </PropertyGroup>
+</Project>
